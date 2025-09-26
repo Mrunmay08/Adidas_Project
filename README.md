@@ -12,6 +12,7 @@ Python (Pandas, Matplotlib, Seaborn) → Data cleaning, analysis, and visualizat
 Power BI → Interactive dashboards and business insights
 
 AWS Cloud Server → Cloud-based data storage and processing
+18.118.168.27
 
 ✨ Features
 
